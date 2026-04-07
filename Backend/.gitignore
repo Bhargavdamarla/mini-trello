@@ -1,0 +1,25 @@
+# Build directories
+target/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+*.jar
+*.war
+*.ear
+
+# Compiled files
+*.class
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
