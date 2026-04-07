@@ -14,7 +14,7 @@ A full-stack task management application inspired by Trello, built with **Spring
 ## Screenshots
 
 ### Login Page
-![Mini Trello Login](./screenshots/login-page.png)
+![Mini Trello Login](./screenshots/dashboard.png)
 
 The login page provides a clean and intuitive interface for user authentication. Users can:
 - Enter their email and password to login
@@ -22,7 +22,7 @@ The login page provides a clean and intuitive interface for user authentication.
 - Secure JWT token-based session management
 
 ### Kanban Board Dashboard
-![Mini Trello Dashboard](./screenshots/dashboard.png)
+![Mini Trello Dashboard](./screenshots/login-page.png)
 
 The main dashboard features a three-column kanban board:
 - **TODO Column**: Tasks that need to be started
