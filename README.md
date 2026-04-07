@@ -405,9 +405,3 @@ For issues and questions:
 - Inspired by [Trello](https://trello.com/)
 - Built with love for learning full-stack development
 - Thanks to the Spring Boot and React communities
-
----
-
-**Built with ❤️ by Bhargav Damarla**
-
-⭐ If you find this project helpful, please consider giving it a star on [GitHub](https://github.com/Bhargavdamarla/mini-trello)
